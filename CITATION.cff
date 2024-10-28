@@ -1,0 +1,21 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: photovoltaic green roof shading and view factor
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Tej
+    family-names: Žižak
+    email: tej.zizak@fs.uni-lj-si
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.13960572
+repository-code: >-
+  https://github.com/tziz2059/photovoltaic-green-roof/releases/tag/v1.0
+license: Apache-2.0
+version: '1.0'
+date-released: '2024-10-28'
